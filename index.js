@@ -1,4 +1,6 @@
-document.getFirstSelector('nested')
+document.getFirstSelector('nested'){
+  return getFirstSelector('div.ranked-list') = document.querySelector ('ranked-list');
+}
 
 
 /*describe( 'getFirstSelector(selector)', () => {
