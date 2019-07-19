@@ -1,3 +1,4 @@
+document.getFirstSelector('nested')
 
 
 /*describe( 'getFirstSelector(selector)', () => {
